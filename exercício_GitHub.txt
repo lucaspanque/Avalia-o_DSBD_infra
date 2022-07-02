@@ -1,0 +1,5 @@
+Olá professor.
+O nome do projeto (repositório) é Avalia-o_DSBD_infra .
+Inseri um arquivo txt chamado lucas.txt.
+Fiz sozinho.
+Nome: Lucas Vinicius de Carvalho.
