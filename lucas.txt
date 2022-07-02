@@ -1,0 +1,3 @@
+Esse é o arquivo utilizado para o exercício proposto pelo Prof. Paulo.
+
+Segunda linha.
